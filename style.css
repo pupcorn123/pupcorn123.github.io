@@ -15,3 +15,9 @@ body {
   margin-left: 20px;
   width: 30%;
 }
+
+img{
+    border: 5px solid #000676;
+    height: auto;
+    width: auto;
+}
