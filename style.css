@@ -10,7 +10,7 @@ body {
  }
 
 img{
-  display: block;
-  margin: auto;
+  float: left;
+  margin-left: 20px;
   width: 40%;
 }
