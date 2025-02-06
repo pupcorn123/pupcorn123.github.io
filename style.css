@@ -25,14 +25,22 @@ img{
 }
 
 .bio{
+    position: relative;
     font-size: 20px;
 }
 
 .dogs{
+    position:relative;
+    margin-left: auto;
+    margin-right: auto;
     background-color: #ff00bf;
-    width: 500px;
-    height: 20px;
+    width: fit-content;
+    height: fit-content;
     font-size: 32px;
-    text-align: center;
-    
+}
+
+a{
+    color:white;
+    text-decoration: none;
+    padding: 6px;
 }
